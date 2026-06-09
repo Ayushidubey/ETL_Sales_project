@@ -39,6 +39,6 @@ This project demonstrates an end-to-end ETL pipeline using Python, where sales d
   please use your own sample data.
 
   ## Script for Project
-  []
+  [Sales project](ETL_Sales_project/Sales_ETL_Proj_Python.ipynb)
   
   
